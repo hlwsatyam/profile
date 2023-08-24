@@ -1,0 +1,24 @@
+*{
+     padding: 0;
+    margin: 0; 
+     box-sizing: border-box; 
+
+}
+ .about{
+    margin-top: 4rem;
+}
+hr {   
+    width: 20%;
+    height: 2px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 0 auto;  
+    border-top: 5px solid rgb(21, 234, 50);
+}
+.about2{
+    margin-right: 20px;
+} 
+.img_about{
+    width: 90%;
+    height: 70vh;
+}

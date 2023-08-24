@@ -1,0 +1,39 @@
+.nav {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    overflow: hidden;
+    background-color: #302f2f;
+    width: 100%;
+    padding: 0px 10px;
+    transition: 0.4s;
+    transition: 0.4s;
+
+}
+
+.c-red,li{
+background-color: #a9c5ab;  
+
+}
+
+.nav a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 30px;
+    border-radius: 5px;
+    color: #ad6d6d;
+
+
+}
+
+/* Change the link color on hover */
+nav:hover {
+    background-color: #7d7979;
+
+}

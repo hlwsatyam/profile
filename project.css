@@ -1,0 +1,24 @@
+.card{
+    background-color: rgb(215, 215, 215);
+    width: 80%;
+    height: 30vh;
+    text-align: center;
+}
+hr {   
+    width: 30%;
+    height: 2px;
+    margin-top: 0 auto;
+    margin-bottom: 30px;
+    margin-left: 0 auto;  
+    border-top: 5px solid rgb(21, 234, 50);
+}
+.project{
+    margin-top: 4rem;
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-decoration: none;
+    color: rgb(14, 10, 13);
+}

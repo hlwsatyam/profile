@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   
+}
+hr {   
+    width: 30%;
+    height: 2px;
+    margin-top: 0 auto;
+    margin-bottom: 30px;
+    margin-left: 0 auto;  
+    border-top: 5px solid rgb(21, 234, 50);
+}
+.social_item{
+    margin: 20px 20px 20px 10px;
+    font-size: 1.5rem;     
+ }
+.contact{
+    margin-top: 3rem;
+} 
+.Call_card{
+    margin-right: 6rem;
+}
+.main{
+    margin-left: 25rem;
+}
+.card{
+    background-color: rgb(215, 215, 215);
+}
+a{
+    color: #e18686;
+    text-decoration: none;
+}

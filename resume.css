@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    background-color: rgb(40, 33, 33);
+  }
+  .box {
+    margin-top: 4rem;
+    max-width: 80rem;
+    padding: 3rem;
+    gap: 5rem;
+    background-color: rgb(146, 140, 134);
+  }
+  .sec_1 {
+    background-color: rgb(85, 83, 83);
+  }
+  .contact {
+    background-color: rgb(222, 85, 85);
+  }
+  .language {
+    background-color: rgb(104, 205, 104);
+  }
+  .soft_skill {
+    background-color: rgb(94, 67, 121);
+  }
+  .soft1 {
+    font-size: 20px;
+    color: aliceblue;
+  }
+  .img_top {
+    width: 100px;
+    margin: 1rem 0rem 1rem 4rem;
+  }
+  .container {
+    width: 80%;
+    background-color: rgb(136, 187, 118);
+    border-radius: 15px;
+  }
+  .skills {
+    text-align: right;
+    background-color: red;
+    color: aqua;
+    padding: -3%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+  }
+  
